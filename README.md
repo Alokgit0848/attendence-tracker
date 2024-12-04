@@ -67,7 +67,9 @@ The **Attendance Tracker** is a simple tool designed to manage and monitor emplo
 ### Prerequisites
 - Node.js
 - React (Vite)  
-- TailwindCSS  
+- TailwindCSS
+
+### Localstorage insted of Database
 
 ### Installation Steps
 1. Clone the repository:  
